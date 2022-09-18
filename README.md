@@ -1,6 +1,6 @@
 # Hello, I'm Burak <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I am an Android Developer, currently a college student (expecting to graduate in 2026). Altough I worked with C, C#, Python, HTML, CSS, JavaScript and SQL before, lately I've been focusing on Native Android Development. I use Kotlin and Android Studio to create apps, I code the UI with Jetpack Compose. 
+I am an Android Developer, currently a college student (expecting to graduate in 2026). Although I worked with C, C#, Python, HTML, CSS, JavaScript, and SQL before, lately I've been focusing on Native Android Development. I use Kotlin and Android Studio to create apps, I code the UI with Jetpack Compose. 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Downshifter114&hide=contribs,prs&theme=dark"/>
 

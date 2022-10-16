@@ -14,5 +14,5 @@ I am an Android Developer, currently a college student (expecting to graduate in
 
 # 📚 Here Are My Blogposts
 <!-- BLOG-POST-LIST:START -->
-- [Simple Get Request Using Retrofit and Dagger-Hilt](https://medium.com/@burakgizlice114/simple-get-request-using-retrofit-and-dagger-hilt-289c488629b1)
+- [Simple Get Request Using Retrofit and Dagger-Hilt](https://medium.com/@burakgizlice114/simple-get-request-using-retrofit-and-dagger-hilt-289c488629b1?source=rss-579dde5df95e------2)
 <!-- BLOG-POST-LIST:END -->
